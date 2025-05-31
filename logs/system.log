@@ -1,0 +1,4 @@
+2025-05-31T06:03:38.967921 - FILE /workspace/hyperhdr-led/codex_feedback_handler.py: try/except=True, return=True, logging=True, config_use=True
+2025-05-31T06:03:38.967994 - FILE /workspace/hyperhdr-led/main.py: try/except=False, return=False, logging=False, config_use=False
+2025-05-31T06:03:38.968019 - All checks completed
+2025-05-31T06:03:42.554741 - Simulated failure logged
